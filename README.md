@@ -2,7 +2,7 @@
 
 This subdirectory contains Linux privilege escalation resources, including enumeration scripts, tactics, and notes for educational and lab purposes.
 
-![Linux escalation lab screenshot](images/linux.jpg)
+![](images/linux.png)
 
 ## Purpose
 The goal is to document common Linux privilege escalation methods, maintain reusable scripts for system enumeration, and track tactics in a safe, controlled environment.
